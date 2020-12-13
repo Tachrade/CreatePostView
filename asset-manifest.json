@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/lsyrs/static/js/main.5375a594.chunk.js",
-    "main.js.map": "/lsyrs/static/js/main.5375a594.chunk.js.map",
-    "runtime-main.js": "/lsyrs/static/js/runtime-main.bb1f2dcf.js",
-    "runtime-main.js.map": "/lsyrs/static/js/runtime-main.bb1f2dcf.js.map",
-    "static/js/2.0d68763a.chunk.js": "/lsyrs/static/js/2.0d68763a.chunk.js",
-    "static/js/2.0d68763a.chunk.js.map": "/lsyrs/static/js/2.0d68763a.chunk.js.map",
-    "index.html": "/lsyrs/index.html",
-    "precache-manifest.caec8b9e922a1314cea1fba62bb5fa81.js": "/lsyrs/precache-manifest.caec8b9e922a1314cea1fba62bb5fa81.js",
-    "service-worker.js": "/lsyrs/service-worker.js",
-    "static/js/2.0d68763a.chunk.js.LICENSE.txt": "/lsyrs/static/js/2.0d68763a.chunk.js.LICENSE.txt"
+    "main.js": "/LSGCR/static/js/main.9f230338.chunk.js",
+    "main.js.map": "/LSGCR/static/js/main.9f230338.chunk.js.map",
+    "runtime-main.js": "/LSGCR/static/js/runtime-main.316148ce.js",
+    "runtime-main.js.map": "/LSGCR/static/js/runtime-main.316148ce.js.map",
+    "static/js/2.1901ee11.chunk.js": "/LSGCR/static/js/2.1901ee11.chunk.js",
+    "static/js/2.1901ee11.chunk.js.map": "/LSGCR/static/js/2.1901ee11.chunk.js.map",
+    "index.html": "/LSGCR/index.html",
+    "precache-manifest.517ea8237a60ef85527bd124eba849b0.js": "/LSGCR/precache-manifest.517ea8237a60ef85527bd124eba849b0.js",
+    "service-worker.js": "/LSGCR/service-worker.js",
+    "static/js/2.1901ee11.chunk.js.LICENSE.txt": "/LSGCR/static/js/2.1901ee11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb1f2dcf.js",
-    "static/js/2.0d68763a.chunk.js",
-    "static/js/main.5375a594.chunk.js"
+    "static/js/runtime-main.316148ce.js",
+    "static/js/2.1901ee11.chunk.js",
+    "static/js/main.9f230338.chunk.js"
   ]
 }
